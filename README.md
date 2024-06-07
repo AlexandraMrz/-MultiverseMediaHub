@@ -8,7 +8,7 @@ What I want to work on in the future:
 - implementation for user assistance
 - dark mode option
 - saved/favorite articles: allows users to save certain posts of interest to read them later
-
+_____________________________________________
 
 # MultiverseMediaHub
 
