@@ -1,3 +1,15 @@
+What I want to work on in the future:
+
+- add a section for feedback
+- add a section for comments, to allow users to exchange opinions
+- add the use of cookies module
+- implementation of the confidentiality policy and the terms of use of personal data
+- implementation of FAQ (answers to the most common user questions)
+- implementation for user assistance
+- dark mode option
+- saved/favorite articles: allows users to save certain posts of interest to read them later
+
+
 # MultiverseMediaHub
 
 **Prerequisites**
